@@ -35,5 +35,5 @@ Entradas suaves por scroll, marca-texto varrendo, números contando, cards empil
 - Página única em `/` (é uma página de vendas).
 
 ## Pendências que vou preencher com exemplo
-- Link do checkout Cakto e preço do PDF.
+- Preço do PDF (link de compra: https://pay.cakto.com.br/iegcqtd_1378713 em todos os botões).
 - Depoimentos reais.
